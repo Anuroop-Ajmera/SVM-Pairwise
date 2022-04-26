@@ -1,1 +1,1 @@
-# SVM-1vsRest
+# SVM-Pairwise
