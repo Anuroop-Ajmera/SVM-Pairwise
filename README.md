@@ -1,1 +1,1 @@
-# KNN_and_ParzenWindow
+# SVM-1vsRest
