@@ -1,1 +1,1 @@
-# Fisher_Discriminant
+# KNN_and_ParzenWindow
